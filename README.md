@@ -1,5 +1,7 @@
 # IS 218 Test 1: Build, Test, and Deliver
 
+Made an update
+
 You are joining a development team. Your first assignment is to deliver a small
 Python calculator package that another developer can download, install, and test.
 You will implement addition and subtraction and prove they work locally and on GitHub.
