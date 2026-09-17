@@ -1,3 +1,5 @@
+from calculator import add
+
 def test_add():
     # Arrange
     first, second = 2, 3
